@@ -20,12 +20,12 @@
 [![Sass](https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=fff)](https://github.com/ahmedtgp)
 [![JQuery](https://img.shields.io/badge/-JQuery-000?style=flat-square&logo=jQuery&logoColor=0769AD)](https://github.com/ahmedtgp)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/ahmedtgp)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/ahmedtgp)
 
 - 🌱 I’m currently learning ...
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/ahmedtgp)
+#[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/ahmedtgp)
 
-#
 
 - ⚡ Loading New Skill ...
 - ✨ Loading New Ideas ...
